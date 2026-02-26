@@ -26,6 +26,8 @@ Welcome to Assignment 1! In this assignment, you will work with **Java threads**
    - Verify your email address
 
 2. **Fork this repository**:
+   - Go to the starter repository: `https://github.com/makopt/OS-Assignment1-Starter`
+   - Make sure you’re logged in to GitHub with your university email account
    - Click the **"Fork"** button at the top right of this page
    - This creates your own copy of the repository
    - Your repository will be at: `https://github.com/YOUR_USERNAME/OS-Assignment1-YOUR_NAME`
